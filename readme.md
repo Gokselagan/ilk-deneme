@@ -1,5 +1,4 @@
 #deneme
 
 ##alt bilgi
-aljfhaj
-fsjkdbfsn
+aljf
